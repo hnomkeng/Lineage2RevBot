@@ -8,7 +8,7 @@
 
 $sBotName = "L2Bot by Hnomkeng"
 $sBotVersion = "0.10"
-$sBotTitle = "AutoIt " & $sBotName & " v" & $sBotVersion
+$sBotTitle = ""& $sBotName & " v" & $sBotVersion
 
 #include <Bots/Util/SetLog.au3>
 #include <Bots/Util/Time.au3>
