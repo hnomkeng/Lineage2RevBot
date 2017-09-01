@@ -6,7 +6,7 @@
 Local $setting_common_group = "Default"
 
 Global $setting_win_title = "Name Nox"
-Global $setting_thick_frame_size = "36:2"
+Global $setting_thick_frame_size = "4:3"
 
 Global $setting_item_pos_questscroll = 2
 Global $setting_pvp_use_red_dia = True
