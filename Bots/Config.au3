@@ -5,7 +5,7 @@
 
 Local $setting_common_group = "Default"
 
-Global $setting_win_title = "녹스 안드로이드 앱플레이어"
+Global $setting_win_title = "Name Nox"
 Global $setting_thick_frame_size = "36:2"
 
 Global $setting_item_pos_questscroll = 2
