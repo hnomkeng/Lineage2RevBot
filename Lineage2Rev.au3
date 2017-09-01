@@ -6,7 +6,7 @@
 #pragma compile(FileVersion, 0.10)
 #pragma compile(LegalCopyright, DarkJaden)
 
-$sBotName = "Lineage 2 Revolution Bot"
+$sBotName = "L2Bot by Hnomkeng"
 $sBotVersion = "0.10"
 $sBotTitle = "AutoIt " & $sBotName & " v" & $sBotVersion
 
